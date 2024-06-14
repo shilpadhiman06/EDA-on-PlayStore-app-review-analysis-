@@ -15,9 +15,7 @@ Here's a comprehensive README file for Playstore App Review Analysis project:
 - [Analysis](#analysis)
 - [Technologies Used](#technologies-used)
 - [Future Work](#future-work)
-- [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
